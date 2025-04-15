@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">QuakeAlert</string>
+    <string name="title_activity_main">QuakeAlert</string>
+    <string name="package_name">com.robert.quakealert</string>
+    <string name="custom_url_scheme">com.robert.quakealert</string>
+</resources>
